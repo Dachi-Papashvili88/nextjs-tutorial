@@ -1,7 +1,7 @@
 function ClientsPage() {
   return (
     <div>
-      <h1 className="text-7xl">ClientsPage</h1>
+      <h1 className="text-7xl">Client Page</h1>
     </div>
   );
 }
